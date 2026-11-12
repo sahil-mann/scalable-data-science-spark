@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use the reusable material in this portfolio, please cite the repository."
+title: "Scalable Data Science with Apache Spark"
+type: software
+authors:
+  - family-names: Mann
+    given-names: Sahil
+year: 2026
+license: MIT
+
